@@ -1,4 +1,4 @@
-package br.com.hellorequest;
+package br.com.projeto.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
