@@ -1,4 +1,4 @@
-package br.com.hellorequest.model;
+package br.com.projeto.core.domain;
 
 public record EntidadePrincipal(String id, double valor, java.time.Instant timestamp){
 
