@@ -1,4 +1,4 @@
-package br.com.projeto.infraestrutura.mqtt.in;
+package br.com.projeto.mqtt.in;
 
 
 import com.hivemq.client.mqtt.mqtt3.Mqtt3AsyncClient;
