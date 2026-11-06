@@ -1,4 +1,4 @@
-package br.com.projeto.infraestrutura.mqtt.out;
+package br.com.projeto.mqtt.out;
 
 import com.hivemq.client.mqtt.datatypes.MqttQos;
 import com.hivemq.client.mqtt.mqtt3.Mqtt3BlockingClient;
