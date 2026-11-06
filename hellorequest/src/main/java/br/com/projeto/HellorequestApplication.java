@@ -1,13 +1,14 @@
-package br.com.projeto.core;
+package br.com.projeto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 
 @SpringBootApplication
 public class HellorequestApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(HellorequestApplication.class, args);
     }
-
 }
